@@ -2,7 +2,7 @@ import { Button } from "@rebaseui/button";
 
 export default function Docs() {
   return (
-    <div>
+    <div className="bg-slate-600">
       <Button />
     </div>
   );
