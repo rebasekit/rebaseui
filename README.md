@@ -5,13 +5,13 @@
 <br />
 
 <div align="center">
-  <h2>⚠️ Project in development. Not production ready. ⚠️</h2>
+  <h3>⚠️ Project in development. Not production ready. ⚠️</h3>
 </div>
 
 <br />
 
 <div align="center">
-  <h2>Rebase UI</h2>
+  <h3>Rebase UI</h3>
 </div>
 <div align="center">
   Atomic React+Tailwind components to ship custom UI fast.
@@ -33,9 +33,20 @@
   <sup>Created by <a href="https://twitter.com/christoribeiro" target="_blank">Christophe Ribeiro</a> 🪄</sup>
 </div>
 
-# Rebase UI
+## Features
 
-> **WIP**
-> This project is currently in development and not made for production yet.
+TODO
 
-Rebase UI helps developers to ship custom UI fast with a set of accessible React components that work with Tailwind CSS.
+## Getting started
+
+TODO
+
+## Components
+
+- [ ] Button
+- [ ] Input
+- [ ] Switch
+
+## License
+
+Under [MIT](LICENSE)
